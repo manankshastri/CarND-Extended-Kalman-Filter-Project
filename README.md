@@ -61,4 +61,6 @@ OUTPUT: values provided by the c++ program to the simulator
 4. Run it: `./ExtendedKF `
 
 ## Output
-![alt text](output.gif)
+<p align="center">
+ <img src="output.gif" style="width:500;height:500px>
+</p>
