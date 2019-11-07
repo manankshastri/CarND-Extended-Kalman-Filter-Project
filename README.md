@@ -62,5 +62,5 @@ OUTPUT: values provided by the c++ program to the simulator
 
 ## Output
 <p align="center">
- <img src="output.gif" style="width:500;height:500px>
+ <img src="output.gif" style="width:500;height:500px;">
 </p>
